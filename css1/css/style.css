@@ -32,66 +32,22 @@ ul li{list-style: none;}
 img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*--------------------*/
-body{
-	width:1250px;
-	margin: 50px;
-}
 
-.block1{
-	width: 611px;
-	height: 64px;
+.example-block{
+	font-size: 50px;
+	margin: 20px;
+	padding: 50px;
+	border: 5px solid #000;
+	border-radius: 30px;
+	box-shadow: 5px 5px 10px 5px #000, inset 5px 5px 10px 5px #000;
+	background-color: #c0c0c0
 	
 }
 
-.block2{
-	width: 274px;
-	height: 14px;
-	
+.examle-string{
+	font-size: 50px;
 }
 
-.block4{
-	width: 1145px;
-	height: 86px;
-	margin-top: 31px;
-	
+.examle-image{
 
-}
-
-.block5{
-	
-	margin: 35px 42px 35px 0;
-	display: inline;
-}
-
-.block6{
-	
-	margin: 35px 42px 35px 0;
-	min-width: 503px;
-	display: inline-block;
-	margin-top: 35px;
-	
-}
-
-.block3{
-	display: block;
-	margin-bottom: 35px;
-}
-
-.block7{
-	display: inline-block;
-	width: 503px;
-}
-
-.block8{
-	display: inline-block;
-}
-
-.block9{
-	
-	width: 343px;
-	height: 111px;
-	display: block;
-	padding: 47px 0;
-	word-spacing: 2px;
-	text-align: center;
 }
